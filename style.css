@@ -1,0 +1,27 @@
+body {
+font-family: Helvetica;
+}
+
+.vert {
+background-color: rgb(0, 130, 0);
+width: 4em;
+height: 3em;
+}
+
+.rouge {
+background-color: rgb(130, 0, 0);
+width: 4em;
+height: 3em;
+}
+
+.jaune {
+background-color: rgb(160, 160, 0);
+width: 4em;
+height: 3em;
+}
+
+.bleu {
+background-color: rgb(0, 0, 130);
+width: 4em;
+height: 3em;
+}
